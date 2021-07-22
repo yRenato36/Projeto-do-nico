@@ -1,0 +1,89 @@
+body {
+    background: #96c0ff;
+    color: white;
+    font: normal 15pt Arial;
+    text-align: center;
+}
+h1 {
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 0px #0000009f;
+}
+section {
+    padding: 10px;
+    margin: auto;
+    width: 500px;
+    background: #579aff;
+    padding: 15px;
+    border-radius: 20px;
+    width: 500px;
+    text-align: center;
+    color: black;
+    box-shadow: 4px 4px 0px #00000075;
+}
+p#Oi {
+    color: white;
+}
+p#botao {
+    font-size: 15px;
+    background: #ffef63;
+    box-shadow: 2px 2px 0px #857c2e;
+    border-radius: 20px;
+    width: 100px;
+    margin-left: 200px;
+    margin-top: -15px;
+}
+p#botao1 {
+    background: #ff5b5b;
+    box-shadow: 3px 3px 0px #a53c3c;
+    color: white;
+    border-radius: 20px;
+    width: 200px;
+    margin-left: 150px;
+}
+div#boxes {
+    color: white;
+}
+div#res {
+    color: white;
+}
+footer {
+    color: yellow;
+    text-shadow: 1px 1px 1px black;
+    margin-top: 200px;
+}
+
+
+section#sec1 {
+    margin-top: 80px;
+}
+p#V {
+    color: white;
+    font-size: 30px;
+}
+p#S {
+    color: white;
+    margin-left: 70px;
+    margin-top: -20px;
+    background: #43ff3d;
+    border-radius: 20px;
+    width: 150px;
+    box-shadow: 3px 3px 0px #33b92e;
+}
+p#N {
+    color: white;
+    margin-left: 240px;
+    margin-top: -43px;
+    background: #ff4848;
+    border-radius: 20px;
+    width: 170px;
+    box-shadow:  3px 3px 0px #bd2f2f;
+}
+p#ores1 {
+    color: white;
+}
+p#ores2 {
+    color: white;
+}
+p#ores3 {
+    color: white;
+}

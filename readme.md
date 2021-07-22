@@ -1,0 +1,2 @@
+O Nico no primeiro quadro irá fazer uma contagem de acordo com o número de início, fim e intervalos que forem fornecidos.
+No segundo quadro, Nico pergunta se você gosta de maçã, se sim, ele oferece outra, se não, ele agradece 
